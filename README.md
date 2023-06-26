@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Jamail-Chachere/osTicket-Post-Installation-Configuration)
   
 - <b>Microsoft Azure</b>
-  
+  [Creating Virtual Machines in Azure](https://github.com/Jamail-Chachere/Creating-Virtual-Machines-in-Azure)
 
 <h2>🤳Connect with me:</h2>
 
