@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Creating VPNs</b>
+  - [Creating VPNs in Virtual Machines](https://github.com/Jamail-Chachere/Creating-VPNs/tree/main)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jamail-Chachere/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Jamail-Chachere/osTicket-Post-Installation-Configuration)
@@ -9,8 +12,7 @@
 - <b>Microsoft Azure</b>
    - [Creating Virtual Machines in Azure](https://github.com/Jamail-Chachere/Creating-Virtual-Machines-in-Azure)
 
-- <b>Microsoft Azure</b>
-  - [Creating VPNs in Virtual Machines](https://github.com/Jamail-Chachere/Creating-VPNs/tree/main)
+
 <h2>🤳Connect with me:</h2>
 
 
