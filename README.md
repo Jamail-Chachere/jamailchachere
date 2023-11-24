@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Creating Active Directory Systems</b>
-  - [Creating VPNs in Virtual Machines](https://github.com/Jamail-Chachere/Creating-VPNs/tree/main)
+  - [Creating VPNs in Virtual Machines](https://github.com/Jamail-Chachere/Creating-Active-Directory-Systems/tree/main)
 
 - <b>Creating VPNs</b>
   - [Creating VPNs in Virtual Machines](https://github.com/Jamail-Chachere/Creating-VPNs/tree/main)
